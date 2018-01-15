@@ -1,2 +1,6 @@
 Git test!!!
+<<<<<<< HEAD
 Modified at 14:05
+=======
+modfied 13:41
+>>>>>>> 0ca6d7b258411a3d1bdfaf51e72dcd961f8fc3be
